@@ -15,7 +15,7 @@ These instructions assume that you have Python 3.10+ installed locally.
 1. Clone or download the code from the repo.
 
     ```sh
-    git clone https://github.com/microsoft/NLWeb
+    git clone https://github.com/nlweb-ai/NLWeb.git
     cd NLWeb
     ```
 
